@@ -6,12 +6,10 @@
 
 I work at the intersection of data, structure, and decision-making.
 
-Focused on Power BI, data governance, and AI with Copilot & Copilot Studio.
-
 I don’t see BI as reporting or AI as a feature.  
-I see both as systems that need clarity to actually work.
+I see both as systems that need clarity to actually work and drive decisions.
 
-As a Microsoft MVP and BI consultant, I build structured, scalable solutions combining Power BI, governance, and AI that support real decisions and are actually used.
+As a Microsoft MVP and BI consultant, I use Power BI, governance, and AI (Copilot & Copilot Studio) to build structured, scalable systems that support real decisions and actually work.
 
 ---
 
