@@ -21,3 +21,6 @@ As a Microsoft MVP and BI consultant, I use Power BI, governance, and AI (Copilo
 
 🤖 **Copilot x Power BI Use Cases**  
 👉 [Copilot x Power BI](https://github.com/Jasmin319/powerbi-copilot-usecases)
+
+💛**Pimp your GitHub by turning it into a real BI Portfolio**
+👉 [GitHub-for-BI-Portfolio](https://github.com/Jasmin319/GitHub-for-BI-Portfolio)
