@@ -16,7 +16,7 @@ As a Microsoft MVP and BI consultant, I use Power BI, governance, and AI (Copilo
 
 ## Key repositories
 
-📊 **Power BI Vibes – Patterns & Design**  
+📊 **Power BI Vibes – DAX Expression, Dashboards & Design**  
 👉 [Power BI Vibes](https://github.com/Jasmin319/Power-BI-Vibes)
 
 🤖 **Copilot x Power BI Use Cases**  
