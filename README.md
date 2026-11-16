@@ -15,6 +15,8 @@ As a Microsoft MVP and BI consultant, I use Power BI, governance, and AI (Copilo
 ---
 
 ## Key repositories
+🕵🏼‍♀️ **Semantic Modelling | DATA THERAPY**  
+👉 [Power BI Vibes](https://github.com/Jasmin319/Semantic-Modelling-Power-BI---DATA-THERAPY)
 
 📊 **Power BI Vibes – DAX Expression, Dashboards & Design**  
 👉 [Power BI Vibes](https://github.com/Jasmin319/Power-BI-Vibes)
